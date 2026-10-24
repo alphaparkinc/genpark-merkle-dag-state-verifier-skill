@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-merkle-dag-state-verifier-skill
+description: Cryptographic Merkle tree verification engine for agent state transitions, tool call histories, and tamper-evident audit logs
+version: 1.0.1
+homepage: https://www.genpark.ai
