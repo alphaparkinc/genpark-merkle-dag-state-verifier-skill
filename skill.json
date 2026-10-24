@@ -1,0 +1,9 @@
+{
+  "name": "genpark-merkle-dag-state-verifier-skill",
+  "version": "1.0.1",
+  "description": "Cryptographic Merkle tree verification engine for agent state transitions, tool call histories, and tamper-evident audit logs",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
